@@ -1,0 +1,10 @@
+digraph minimized {
+	2 [peripheries=2];
+	3 [peripheries=2];
+	1 [label="1 (START)"];
+	1 -> 3 [label="0"];
+	1 -> 2 [label="1-9"];
+	1 -> 1 [label="-"];
+	1 -> 1 [label="+"];
+	2 -> 2 [label="0-9"];
+}
