@@ -5,14 +5,19 @@ Executable file is `minimizer`
 ## Options ##
 
 -i 
+
 	input file name (default: default/in.gr)
 -o
+
 	output file name (default: default/out.gr)
 -p
+
 	print file name (default: default/outpr.png)
 -s
+
 	filename to save dot-formatted graph (default: default/out.gv)
 -n
+
 	disable printing
 
 Graph format:
